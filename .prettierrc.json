@@ -1,0 +1,6 @@
+{
+  "singleQuote": true,
+  "importOrder": ["^src/(.*)$", "^[./]"],
+  "importOrderSeparation": true,
+  "printWidth": 120
+}
